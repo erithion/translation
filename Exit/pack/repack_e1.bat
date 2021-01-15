@@ -1,0 +1,2 @@
+chcp 65001
+"C:/Program Files/MKVToolNix\mkvmerge.exe" --ui-language en --output ^"C:\Video\_nrk\Exit\mix\s01_e01_Steril ^(1^).mkv^" --subtitle-tracks 3 --language 0:und --default-track 0:yes --language 1:und --default-track 1:yes --sub-charset 3:UTF-8 --language 3:nor --track-name ^"3:Norsk [Mari Andresen]^" ^"^(^" ^"C:\Video\_nrk\Exit\mix\s01_e01_Steril.mkv^" ^"^)^" --language 0:ukr --track-name ^"0:Українська [erithion]^" ^"^(^" ^"C:\projects\Git\translation\Exit\s01_e01_Steril.ukr.srt^" ^"^)^" --track-order 0:0,0:1,1:0,0:3
