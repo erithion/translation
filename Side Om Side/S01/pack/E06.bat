@@ -1,0 +1,5 @@
+chcp 65001
+"C:/Program Files/MKVToolNix\mkvmerge.exe" --ui-language en --output ^"C:\projects\Git\translation\Side Om Side\S01\put_mkv_here\S01.E06.Нирчиня ^(1^).mkv^" --no-subtitles --language 0:und --default-track 0:yes --language 1:und --default-track 1:yes ^"^(^" ^"C:\projects\Git\translation\Side Om Side\S01\put_mkv_here\S01.E06.Нирчиня.mkv^" ^"^)^" --sub-charset 0:UTF-8 --language 0:nor --track-name 0:Norsk ^"^(^" ^"C:\projects\Git\translation\Side Om Side\S01\S01.E06.Нирчиня.no.srt^" ^"^)^" --sub-charset 0:UTF-8 --language 0:ukr --track-name ^"0:Українська [erithion]^" ^"^(^" ^"C:\projects\Git\translation\Side Om Side\S01\S01.E06.Нирчиня.ukr.srt^" ^"^)^" --track-order 0:0,0:1,2:0,1:0
+
+del "C:\projects\Git\translation\Side Om Side\S01\put_mkv_here\S01.E06.Нирчиня.mkv"
+ren "C:\projects\Git\translation\Side Om Side\S01\put_mkv_here\S01.E06.Нирчиня (1).mkv" "S01.E06.Нирчиня.mkv"
